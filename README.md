@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @cyh218
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning web programming
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hello, I'm a common middle school stutent in China.
 
 <!---
 cyh218/cyh218 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
